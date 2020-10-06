@@ -1,0 +1,35 @@
+var fotos = `[{
+	"foto": "img/giphy1.gif",
+	 "alt": "Trump gif",
+	 "info": " is speaking the truth."
+},
+{
+    "foto": "img/giphy2.gif",
+	 "alt": "Trump gif",
+	 "info": "surfs down Pen Ave."
+},
+{
+    "foto": "img/giphy3.gif",
+	 "alt": "Trump gif",
+	 "info": "drinks water for the first time."
+},
+{
+    "foto": "img/giphy4.gif",
+	 "alt": "Trump gif",
+	 "info": "is a very bigly man."
+},
+{
+    "foto": "img/giphy5.gif",
+	 "alt": "Trump gif",
+	 "info": "is an exuberant man."
+},
+{
+    "foto": "img/giphy6.gif",
+	 "alt": "Trump gif",
+	 "info": "doesn't care about you."
+},
+{
+    "foto": "img/giphy7.gif",
+	 "alt": "Trump gif",
+	 "info": "dances like a pro."
+}]`
